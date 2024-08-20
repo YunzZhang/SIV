@@ -11,7 +11,7 @@
     pip3 install -r requirements.txt
 
 # Preparation
-    You can download the required test data and pre-trained models from the following anonymous link. Please place them in the 'test_data' and 'pretrained' directories, respectively.
+    You can download the required test data and pre-trained models from this anonymous link. Please place them in the 'test_data' and 'pretrained' directories, respectively.
 
 # Evaluate
     For example, to evaluate "Problem 1 dt=21", you may run
