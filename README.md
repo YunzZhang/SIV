@@ -8,7 +8,7 @@
     # You can choose the PyTorch version you like, we recommand version >= 1.10.1
     # For example
     pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu116
-    pip3 install -r requirements.txt
+    pip3 install -r environment.txt
 
 # Preparation
     You can download the required test data and pre-trained models from this anonymous link. Please place them in the 'test_data' and 'pretrained' directories, respectively.
