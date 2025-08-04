@@ -15,4 +15,4 @@
 
 # Evaluate
     For example, to evaluate "Problem 1 dt=21", you may run
-    python3 test.py --eval --pretrained pretrained/dt\=21/siv_p1_epoch100.pth --configs configs/Problem1.yml --dt 21
+    python3 test_siv.py --eval --pretrained pretrained/dt\=21/siv_p1_epoch100.pth --configs configs/Problem1.yml --dt 21
