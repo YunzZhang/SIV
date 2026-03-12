@@ -1,5 +1,5 @@
 # SIV
- Pretrained models and testing data for SIV
+Coming soon ......
 # Environment
     You can choose cudatoolkit version to match your server. The code is tested on PyTorch 1.10.1+cu113.
 
