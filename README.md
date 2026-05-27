@@ -18,8 +18,9 @@ This repository provides the official implementation of **SIV** and the **PSSD**
 
 ## News
 
-- **2026-01:** SIV is accepted by **AAAI 2026**.
-- **2026-01:** The official SIV code and PSSD dataset are publicly released.
+- **2025-11:** SIV was accepted by **AAAI 2026**.
+- **2026-03:** The paper was published in the **AAAI 2026 Proceedings**.
+- **2026-05:** The official SIV code and PSSD dataset were publicly released.
 
 ---
 
