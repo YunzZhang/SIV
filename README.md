@@ -1,10 +1,15 @@
 # Spike Imaging Velocimetry
 
+[![arXiv](https://img.shields.io/badge/arXiv-2504.18864-b31b1b.svg)](https://arxiv.org/abs/2504.18864)
+[![AAAI 2026](https://img.shields.io/badge/AAAI-2026-blue.svg)](https://ojs.aaai.org/index.php/AAAI/article/view/37133)
+
 Official repository for **Spike Imaging Velocimetry: Dense Motion Estimation of Fluids Using Spike Streams**, accepted by **AAAI 2026**.
 
 This repository provides the official implementation of **SIV** and the **PSSD** dataset for spike-based particle image velocimetry. SIV explores spike cameras for high-speed fluid velocity measurement and introduces a dedicated deep learning framework for dense motion estimation from spike streams.
 
 - **Paper:** *Spike Imaging Velocimetry: Dense Motion Estimation of Fluids Using Spike Streams*
+- **arXiv:** [https://arxiv.org/abs/2504.18864](https://arxiv.org/abs/2504.18864)
+- **AAAI Proceedings:** [https://ojs.aaai.org/index.php/AAAI/article/view/37133](https://ojs.aaai.org/index.php/AAAI/article/view/37133)
 - **Conference:** AAAI 2026
 - **Dataset:** PSSD: Particle Scenes with Spike and Displacement
 - **Task:** Spike-based particle image velocimetry / dense fluid motion estimation
