@@ -1,0 +1,29 @@
+data:
+  Problem_type: "1"
+  Problem_path: /path/to/your/dataset/Problem1
+  image_size: [256, 256]
+
+loader:
+  n_epochs: 102
+  batch_size: 6
+  augment: ['Horizontal', 'Vertical']
+  pair_step: 1
+  do_flip: True
+  seed: 6351
+
+model:
+  flow_arch: 'siv_p1'
+  # decay
+  flow_weight_decay: 0.0004
+  flow_bias_decay: 0.0
+
+train:
+  print_freq: 100
+  mixed_precision: True
+  vis_freq: 20
+
+optimizer:
+  solver: Adam
+  lr: 0.0001
+  momentum: 0.9
+  beta: 0.999
